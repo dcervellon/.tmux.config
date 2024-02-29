@@ -1,7 +1,7 @@
 
 # ~/tmux.conf
 TMux Configuration
-# To make the cipiar hit paste only in MAC, no linux
+# To make the copy hit paste only in MAC, no linux
 ```
 brew install reattach-to-user-namespace
 ```
