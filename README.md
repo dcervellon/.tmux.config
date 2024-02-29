@@ -1,4 +1,4 @@
-@@ -1,22 +1,28 @@
+
 # ~/tmux.conf
 TMux Configuration
 # To make the cipiar hit paste only in MAC, no linux
